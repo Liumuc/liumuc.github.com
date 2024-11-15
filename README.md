@@ -111,96 +111,96 @@
     <div class="fireworks-container">
         <!-- 夜晚第一波烟花 -->
         <div class="firework" style="top: 10%; left: 15%;" data-night="1">
-            <img src="pics/z_1.jpg" alt="z1">
+            <img src="/pics/z_1.jpg" alt="z1">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 20%; left: 35%;" data-night="1">
-            <img src="pics/z_2.jpg" alt="z2">
+            <img src="/pics/z_2.jpg" alt="z2">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 30%; left: 60%;" data-night="1">
-            <img src="pics/z_3.jpg" alt="z3">
+            <img src="/pics/z_3.jpg" alt="z3">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 50%; left: 25%;" data-night="1">
-            <img src="pics/z_4.jpg" alt="z4">
+            <img src="/pics/z_4.jpg" alt="z4">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 10%; left: 77%;" data-night="1">
-            <img src="pics/z_5.jpg" alt="z5">
+            <img src="/pics/z_5.jpg" alt="z5">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 60%; left: 57%;" data-night="1">
-            <img src="pics/z_6.jpg" alt="z6">
+            <img src="/pics/z_6.jpg" alt="z6">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 27%; left: 12%;" data-night="1">
-            <img src="pics/z_7.jpg" alt="z7">
+            <img src="/pics/z_7.jpg" alt="z7">
             <p class="greeting">xxx</p>
         </div>
 
         <!-- 夜晚第二波烟花 -->
         <div class="firework" style="top: 86%; left: 57%;" data-night="2">
-            <img src="pics/z_8.jpg" alt="z8">
+            <img src="/pics/z_8.jpg" alt="z8">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 10%; left: 40%;" data-night="2">
-            <img src="pics/z_9.jpg" alt="z9">
+            <img src="/pics/z_9.jpg" alt="z9">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 30%; left: 3%;" data-night="2">
-            <img src="pics/z_10.jpg" alt="z10">
+            <img src="/pics/z_10.jpg" alt="z10">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 40%; left: 50%;" data-night="2">
-            <img src="pics/z_11.jpg" alt="z11">
+            <img src="/pics/z_11.jpg" alt="z11">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 90%; left: 30%;" data-night="2">
-            <img src="pics/z_12.jpg" alt="z12">
+            <img src="/pics/z_12.jpg" alt="z12">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 50%; left: 40%;" data-night="2">
-            <img src="pics/z_13.jpg" alt="z13">
+            <img src="/pics/z_13.jpg" alt="z13">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 15%; left: 65%;" data-night="2">
-            <img src="pics/z_14.jpg" alt="z14">
+            <img src="/pics/z_14.jpg" alt="z14">
             <p class="greeting">xxx</p>
         </div>
 
         <!-- 白天第一波烟花 -->
         <div class="firework" style="top: 15%; left: 20%;" data-day="1">
-            <img src="pics/b_1.jpg" alt="b1">
+            <img src="/pics/b_1.jpg" alt="b1">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 67%; left: 65%;" data-day="1">
-            <img src="pics/b_2.jpg" alt="b2">
+            <img src="/pics/b_2.jpg" alt="b2">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 60%; left: 14%;" data-day="1">
-            <img src="pics/b_3.jpg" alt="b3">
+            <img src="/pics/b_3.jpg" alt="b3">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 45%; left: 75%;" data-day="1">
-            <img src="pics/b_4.jpg" alt="b4">
+            <img src="/pics/b_4.jpg" alt="b4">
             <p class="greeting">xxx</p>
         </div>
 
         <div class="firework" style="top: 40%; left: 12%;" data-day="1">
-            <img src="pics/b_5.jpg" alt="b5">
+            <img src="/pics/b_5.jpg" alt="b5">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 70%; left: 29%;" data-day="1">
-            <img src="pics/b_6.jpg" alt="b6">
+            <img src="/pics/b_6.jpg" alt="b6">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 75%; left: 54%;" data-day="1">
-            <img src="pics/b_7.jpg" alt="b7">
+            <img src="/pics/b_7.jpg" alt="b7">
             <p class="greeting">xxx</p>
         </div>
         <div class="firework" style="top: 29%; left: 50%;" data-day="1">
-            <img src="pics/b_8.jpg" alt="b8">
+            <img src="/pics/b_8.jpg" alt="b8">
             <p class="greeting">xxx</p>
         </div>
     </div>
